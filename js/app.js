@@ -13,8 +13,3 @@ function headingYell() {
 
 myButton.addEventListener("click", yell)
 heading.addEventListener("mouseover", headingYell)
-
-
-function () {}
-console.log("Boom");
-}
